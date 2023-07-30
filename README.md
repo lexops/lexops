@@ -3,7 +3,7 @@
 Sou DevOps e apaixonado por Linux, Open Source e tecnologia em geral. <br>
 Meu hobby é aprender novas tecnologias e resolver problemas *reais* com elas !
 
-
+> Veja mais informações sobre meu currículo clicando no botão abaixo:<br>[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/alex-ferreira-da-silva/)
 
 ### Tecnologias que uso diariamente
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)
