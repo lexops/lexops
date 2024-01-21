@@ -98,4 +98,4 @@
 
 <hr>
 <h3>Terminal</h3>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&size=18&duration=3000&pause=200&color=2EA043&random=false&width=768&height=200&lines=%24+git+clone+https%3A%2F%2Fgithub.com%2Flexops%2Flexops+--single-branch+-b+develop;%24+cd+lexops;%24+code+.;%24+git+add+README.md;%24+git+commit+-m+%22update%3A+skills%22;%24+git+push+origin+main;%24+poweroff" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&size=18&duration=3000&pause=200&color=2EA043&random=false&width=768&height=100&lines=%24+git+clone+https%3A%2F%2Fgithub.com%2Flexops%2Flexops+--single-branch+-b+develop;%24+cd+lexops;%24+code+.;%24+git+add+README.md;%24+git+commit+-m+%22update%3A+skills%22;%24+git+push+origin+main;%24+poweroff" alt="Typing SVG" /></a>
