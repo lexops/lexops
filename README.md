@@ -3,6 +3,10 @@
 <!-- https://readme-typing-svg.herokuapp.com/demo/ -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&size=24&duration=2000&pause=1000&color=2EA043&multiline=true&repeat=true&random=false&width=768&height=100&lines=A+passionate+DevOps+from+%F0%9F%87%A7%F0%9F%87%B7;Currently+learning+Backend+Development+with+NodeJS+%F3%B0%8E%99" alt="Typing SVG" /></a>
 
+<a href=#terminal>
+<small>Open terminal here</small>
+</a>
+
 <h2 align="left">Contact me</h2>
 
 ###
@@ -87,3 +91,11 @@
 </div>
 
 ###
+
+<br>
+<br>
+<br>
+
+<hr>
+<h3>Terminal</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&size=18&duration=3000&pause=200&color=2EA043&random=false&width=768&height=200&lines=%24+git+clone+https%3A%2F%2Fgithub.com%2Flexops%2Flexops+--single-branch+-b+develop;%24+cd+lexops;%24+code+.;%24+git+add+README.md;%24+git+commit+-m+%22update%3A+skills%22;%24+git+push+origin+main;%24+poweroff" alt="Typing SVG" /></a>
