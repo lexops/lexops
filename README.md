@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Alex</h1>
 
 <!-- https://readme-typing-svg.herokuapp.com/demo/ -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&size=24&duration=2000&pause=1000&color=2EA043&multiline=true&repeat=true&random=false&width=768&height=100&lines=A+passionate+DevOps+from+%F0%9F%87%A7%F0%9F%87%B7;Learning+Backend+Development+with+NodeJS+%F3%B0%8E%99" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&size=24&duration=2000&pause=1000&color=2EA043&multiline=true&repeat=true&random=false&width=768&height=100&lines=A+passionate+DevOps+from+%F0%9F%87%A7%F0%9F%87%B7;Learning+Web+Development+with+React+and+NodeJS+%F3%B0%8E%99" alt="Typing SVG" /></a>
 
 <a href=#terminal>
 <small>Open terminal here</small>
