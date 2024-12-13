@@ -1,2 +1,2 @@
 # Hi, I'm Alex 👋
-Full Cycle Developer from Brazil
+a Full Cycle Developer from Brazil
